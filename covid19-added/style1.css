@@ -1,0 +1,38 @@
+bnofy{
+    margin: 0px;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+img{
+    width: 400px;
+    height: 350px;
+    transition: all 1s;
+    margin: 10px;
+
+}
+
+img:hover{
+    transform: scale(1.1);
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    border-bottom:  3px solid black;
+    width: 450px;
+    border-right: 3px solid black;
+    box-shadow: 4px 4px 5px #888888;
+    text-align: center;
+    margin-top:10px;
+     
+}
+
+#result{
+    width: 400px;
+    height: 350px;
+    transition: all 1s;
+    margin: 10px;
+  
+}
